@@ -42,6 +42,14 @@ In order to execute the project, follow the instructions below:
    medusa develop
    ```
 
+##### Avoiding CORS errors
+
+To avoid CORS errors when running locally, make sure to update your .env file, setting `STORE_CORS` variable correctly, as follows:
+
+```
+STORE_CORS=http://localhost:5173
+```
+
 #### Admin
 
 1. Go to the admin dir
