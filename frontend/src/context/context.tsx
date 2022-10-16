@@ -34,8 +34,6 @@ export default function ShopProvider({ children }: { children: ReactNode }) {
           const cartObject = response.cart;
           if (cartObject.id) {
             setCart(cartObject);
-            // } else if (cartObject.length > 0) {
-            // setCart(...[cartObject[0]]);
           }
         } catch (err) {
           console.error(`Error loading cart: ${err}`);
