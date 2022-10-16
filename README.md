@@ -1,6 +1,6 @@
 # Game Store
 
-![Medusa Game Store](medusa-gamestore.png)
+![Medusa Game Store](medusa-gamestore.gif)
 
 ### Participants
 
