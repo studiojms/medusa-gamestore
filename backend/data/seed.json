@@ -116,208 +116,98 @@
   ],
   "products": [
     {
-      "title": "Medusa T-Shirt",
+      "title": "Super Mario Odyssey",
       "subtitle": null,
       "description": "Reimagine the feeling of a classic T-shirt. With our cotton T-shirts, everyday essentials no longer have to be ordinary.",
-      "handle": "t-shirt",
+      "handle": "mario-odyssey",
       "is_giftcard": false,
       "weight": 400,
       "images": [
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png",
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-back.png",
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-white-front.png",
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-white-back.png"
+        "https://m.media-amazon.com/images/I/91SF0Tzmv4L._AC_SY550_.jpg",
+        "https://images.eshop-prices.com/games/271/480w.jpeg"
       ],
       "options": [
         {
-          "title": "Size",
-          "values": ["S", "M", "L", "XL"]
-        },
-        {
-          "title": "Color",
-          "values": ["Black", "White"]
+          "title": "Platform",
+          "values": ["Windows", "Xbox", "Playstation", "Switch"]
         }
       ],
       "variants": [
         {
-          "title": "S / Black",
+          "title": "Windows",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 1950
+              "amount": 195.0
             },
             {
               "currency_code": "usd",
-              "amount": 2200
+              "amount": 220.0
             }
           ],
           "options": [
             {
-              "value": "S"
-            },
-            {
-              "value": "Black"
+              "value": "Windows"
             }
           ],
           "inventory_quantity": 100,
           "manage_inventory": true
         },
         {
-          "title": "S / White",
+          "title": "Xbox",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 1950
+              "amount": 195.0
             },
             {
               "currency_code": "usd",
-              "amount": 2200
+              "amount": 220.0
             }
           ],
           "options": [
             {
-              "value": "S"
-            },
-            {
-              "value": "White"
+              "value": "Xbox"
             }
           ],
           "inventory_quantity": 100,
           "manage_inventory": true
         },
         {
-          "title": "M / Black",
+          "title": "Playstation",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 1950
+              "amount": 195.0
             },
             {
               "currency_code": "usd",
-              "amount": 2200
+              "amount": 220.0
             }
           ],
           "options": [
             {
-              "value": "M"
-            },
-            {
-              "value": "Black"
+              "value": "Playstation"
             }
           ],
           "inventory_quantity": 100,
           "manage_inventory": true
         },
         {
-          "title": "M / White",
+          "title": "Switch",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 1950
+              "amount": 195.0
             },
             {
               "currency_code": "usd",
-              "amount": 2200
+              "amount": 220.0
             }
           ],
           "options": [
             {
-              "value": "M"
-            },
-            {
-              "value": "White"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "L / Black",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 1950
-            },
-            {
-              "currency_code": "usd",
-              "amount": 2200
-            }
-          ],
-          "options": [
-            {
-              "value": "L"
-            },
-            {
-              "value": "Black"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "L / White",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 1950
-            },
-            {
-              "currency_code": "usd",
-              "amount": 2200
-            }
-          ],
-          "options": [
-            {
-              "value": "L"
-            },
-            {
-              "value": "White"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "XL / Black",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 1950
-            },
-            {
-              "currency_code": "usd",
-              "amount": 2200
-            }
-          ],
-          "options": [
-            {
-              "value": "XL"
-            },
-            {
-              "value": "Black"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "XL / White",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 1950
-            },
-            {
-              "currency_code": "usd",
-              "amount": 2200
-            }
-          ],
-          "options": [
-            {
-              "value": "XL"
-            },
-            {
-              "value": "White"
+              "value": "Switch"
             }
           ],
           "inventory_quantity": 100,
@@ -326,98 +216,35 @@
       ]
     },
     {
-      "title": "Medusa Sweatshirt",
+      "title": "Mario Kart 8 Deluxe",
       "subtitle": null,
-      "description": "Reimagine the feeling of a classic sweatshirt. With our cotton sweatshirt, everyday essentials no longer have to be ordinary.",
-      "handle": "sweatshirt",
+      "description": "Hit the road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle them in a revised battle mode on new and returning battle courses. Play locally in up to 4-player multiplayer in 1080p while playing in TV Mode. Every track from the Wii U version, including DLC, makes a glorious return. Plus, the Inklings appear as all-new guest characters, along with returning favorites, such as King Boo, Dry Bones, and Bowser Jr.!",
+      "handle": "mario-kart",
       "is_giftcard": false,
       "weight": 400,
-      "images": [
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-front.png",
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-back.png"
-      ],
+      "images": ["https://m.media-amazon.com/images/I/81d40wbC8XL._AC_SX522_.jpg"],
       "options": [
         {
-          "title": "Size",
-          "values": ["S", "M", "L", "XL"]
+          "title": "Platform",
+          "values": ["Switch"]
         }
       ],
       "variants": [
         {
-          "title": "S",
+          "title": "Switch",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 2950
+              "amount": 195.0
             },
             {
               "currency_code": "usd",
-              "amount": 3350
+              "amount": 220.0
             }
           ],
           "options": [
             {
-              "value": "S"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "M",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 2950
-            },
-            {
-              "currency_code": "usd",
-              "amount": 3350
-            }
-          ],
-          "options": [
-            {
-              "value": "M"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "L",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 2950
-            },
-            {
-              "currency_code": "usd",
-              "amount": 3350
-            }
-          ],
-          "options": [
-            {
-              "value": "L"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "XL",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 2950
-            },
-            {
-              "currency_code": "usd",
-              "amount": 3350
-            }
-          ],
-          "options": [
-            {
-              "value": "XL"
+              "value": "Switch"
             }
           ],
           "inventory_quantity": 100,
@@ -426,98 +253,75 @@
       ]
     },
     {
-      "title": "Medusa Sweatpants",
+      "title": "Overwatch 2",
       "subtitle": null,
-      "description": "Reimagine the feeling of classic sweatpants. With our cotton sweatpants, everyday essentials no longer have to be ordinary.",
-      "handle": "sweatpants",
+      "description": "A hero-focused first-person team shooter from Blizzard Entertainment.",
+      "handle": "overwatch",
       "is_giftcard": false,
       "weight": 400,
-      "images": [
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatpants-gray-front.png",
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatpants-gray-back.png"
-      ],
+      "images": ["https://sm.ign.com/ign_br/game/o/overwatch-/overwatch-2_x1j6.jpg"],
       "options": [
         {
-          "title": "Size",
-          "values": ["S", "M", "L", "XL"]
+          "title": "Platform",
+          "values": ["Windows", "Xbox", "Playstation"]
         }
       ],
       "variants": [
         {
-          "title": "S",
+          "title": "Windows",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 2950
+              "amount": 295
             },
             {
               "currency_code": "usd",
-              "amount": 3350
+              "amount": 335
             }
           ],
           "options": [
             {
-              "value": "S"
+              "value": "Windows"
             }
           ],
           "inventory_quantity": 100,
           "manage_inventory": true
         },
         {
-          "title": "M",
+          "title": "Xbox",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 2950
+              "amount": 295
             },
             {
               "currency_code": "usd",
-              "amount": 3350
+              "amount": 335
             }
           ],
           "options": [
             {
-              "value": "M"
+              "value": "Xbox"
             }
           ],
           "inventory_quantity": 100,
           "manage_inventory": true
         },
         {
-          "title": "L",
+          "title": "Playstation",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 2950
+              "amount": 295
             },
             {
               "currency_code": "usd",
-              "amount": 3350
+              "amount": 335
             }
           ],
           "options": [
             {
-              "value": "L"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "XL",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 2950
-            },
-            {
-              "currency_code": "usd",
-              "amount": 3350
-            }
-          ],
-          "options": [
-            {
-              "value": "XL"
+              "value": "Playstation"
             }
           ],
           "inventory_quantity": 100,
@@ -526,98 +330,95 @@
       ]
     },
     {
-      "title": "Medusa Shorts",
+      "title": "Dragon Ball: The Breakers",
       "subtitle": null,
-      "description": "Reimagine the feeling of classic shorts. With our cotton shorts, everyday essentials no longer have to be ordinary.",
-      "handle": "shorts",
+      "description": "DRAGON BALL: THE BREAKERS is an online asymmetrical action game in which a team of 7 ordinary citizens tries to survive the Raider (a classic DRAGON BALL rival such as Cell, Frieza, and Buu), who will hunt them down and evolve during the game into an unstoppable force. Escaping won't be so easy!",
+      "handle": "dragon-ball",
       "is_giftcard": false,
       "weight": 400,
-      "images": [
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/shorts-vintage-front.png",
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/shorts-vintage-back.png"
-      ],
+      "images": ["https://image.api.playstation.com/vulcan/ap/rnd/202207/1919/mBaTykC1xLU8XfSKelYnOOnc.png"],
       "options": [
         {
-          "title": "Size",
-          "values": ["S", "M", "L", "XL"]
+          "title": "Platform",
+          "values": ["Windows", "Xbox", "Playstation", "Switch"]
         }
       ],
       "variants": [
         {
-          "title": "S",
+          "title": "Windows",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 2500
+              "amount": 250
             },
             {
               "currency_code": "usd",
-              "amount": 2850
+              "amount": 285
             }
           ],
           "options": [
             {
-              "value": "S"
+              "value": "Windows"
             }
           ],
           "inventory_quantity": 100,
           "manage_inventory": true
         },
         {
-          "title": "M",
+          "title": "Xbox",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 2500
+              "amount": 250
             },
             {
               "currency_code": "usd",
-              "amount": 2850
+              "amount": 285
             }
           ],
           "options": [
             {
-              "value": "M"
+              "value": "Xbox"
             }
           ],
           "inventory_quantity": 100,
           "manage_inventory": true
         },
         {
-          "title": "L",
+          "title": "Playstation",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 2500
+              "amount": 250
             },
             {
               "currency_code": "usd",
-              "amount": 2850
+              "amount": 285
             }
           ],
           "options": [
             {
-              "value": "L"
+              "value": "Playstation"
             }
           ],
           "inventory_quantity": 100,
           "manage_inventory": true
         },
         {
-          "title": "XL",
+          "title": "Switch",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 2500
+              "amount": 250
             },
             {
               "currency_code": "usd",
-              "amount": 2850
+              "amount": 285
             }
           ],
           "options": [
             {
-              "value": "XL"
+              "value": "Switch"
             }
           ],
           "inventory_quantity": 100,
@@ -626,98 +427,35 @@
       ]
     },
     {
-      "title": "Medusa Hoodie",
+      "title": "God of War Ragnarök",
       "subtitle": null,
-      "description": "Reimagine the feeling of a classic hoodie. With our cotton hoodie, everyday essentials no longer have to be ordinary.",
-      "handle": "hoodie",
+      "description": "Join Kratos and Atreus on a mythic journey for answers before Ragnarök arrives. Together, father and son must put everything on the line as they journey to each of the Nine Realms.",
+      "handle": "gow-ragnarok",
       "is_giftcard": false,
       "weight": 400,
-      "images": [
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/black_hoodie_front.png",
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/black_hoodie_back.png"
-      ],
+      "images": ["https://image.api.playstation.com/vulcan/ap/rnd/202109/2821/a0DyIs2SEHrYpciM1ideU1wv.jpg"],
       "options": [
         {
-          "title": "Size",
-          "values": ["S", "M", "L", "XL"]
+          "title": "Platform",
+          "values": ["Playstation"]
         }
       ],
       "variants": [
         {
-          "title": "S",
+          "title": "Playstation",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 3650
+              "amount": 365
             },
             {
               "currency_code": "usd",
-              "amount": 4150
+              "amount": 415
             }
           ],
           "options": [
             {
-              "value": "S"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "M",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 3650
-            },
-            {
-              "currency_code": "usd",
-              "amount": 4150
-            }
-          ],
-          "options": [
-            {
-              "value": "M"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "L",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 3650
-            },
-            {
-              "currency_code": "usd",
-              "amount": 4150
-            }
-          ],
-          "options": [
-            {
-              "value": "L"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "XL",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 3650
-            },
-            {
-              "currency_code": "usd",
-              "amount": 4150
-            }
-          ],
-          "options": [
-            {
-              "value": "XL"
+              "value": "Playstation"
             }
           ],
           "inventory_quantity": 100,
@@ -726,98 +464,77 @@
       ]
     },
     {
-      "title": "Medusa Longsleeve",
+      "title": "Genshin Impact",
       "subtitle": null,
-      "description": "Reimagine the feeling of a classic longsleeve. With our cotton longsleeve, everyday essentials no longer have to be ordinary.",
-      "handle": "longsleeve",
+      "description": "If you’ve been looking for a game to scratch that open-world action RPG itch, one with perhaps a bit of Asian flair, then you’re going to want to check out miHoYo’s Genshin Impact.",
+      "handle": "genshin-impact",
       "is_giftcard": false,
       "weight": 400,
       "images": [
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/ls-black-front.png",
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/ls-black-back.png"
+        "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S2_1200x1600-c12cdcc2cac330df2185aa58c508e820"
       ],
       "options": [
         {
-          "title": "Size",
-          "values": ["S", "M", "L", "XL"]
+          "title": "Platform",
+          "values": ["Xbox", "Playstation", "Switch"]
         }
       ],
       "variants": [
         {
-          "title": "S",
+          "title": "Xbox",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 3650
+              "amount": 365
             },
             {
               "currency_code": "usd",
-              "amount": 4150
+              "amount": 415
             }
           ],
           "options": [
             {
-              "value": "S"
+              "value": "Xbox"
             }
           ],
           "inventory_quantity": 100,
           "manage_inventory": true
         },
         {
-          "title": "M",
+          "title": "Playstation",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 3650
+              "amount": 365
             },
             {
               "currency_code": "usd",
-              "amount": 4150
+              "amount": 415
             }
           ],
           "options": [
             {
-              "value": "M"
+              "value": "Playstation"
             }
           ],
           "inventory_quantity": 100,
           "manage_inventory": true
         },
         {
-          "title": "L",
+          "title": "Switch",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 3650
+              "amount": 365
             },
             {
               "currency_code": "usd",
-              "amount": 4150
+              "amount": 415
             }
           ],
           "options": [
             {
-              "value": "L"
-            }
-          ],
-          "inventory_quantity": 100,
-          "manage_inventory": true
-        },
-        {
-          "title": "XL",
-          "prices": [
-            {
-              "currency_code": "eur",
-              "amount": 3650
-            },
-            {
-              "currency_code": "usd",
-              "amount": 4150
-            }
-          ],
-          "options": [
-            {
-              "value": "XL"
+              "value": "Switch"
             }
           ],
           "inventory_quantity": 100,
@@ -826,37 +543,74 @@
       ]
     },
     {
-      "title": "Medusa Coffee Mug",
+      "title": "Fortnite",
       "subtitle": null,
-      "description": "Every programmer's best friend.",
-      "handle": "coffee-mug",
+      "description": "A free-to-play, standalone mode of Epic Game's Fortnite.",
+      "handle": "fortnite",
       "is_giftcard": false,
       "weight": 400,
       "images": [
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/coffee-mug.png"
+        "https://store-images.s-microsoft.com/image/apps.51005.70702278257994163.b4f7e5cb-12c9-4573-a0a3-d67a76ff36fd.60d4c616-0582-4185-aa4a-0892c641c69b"
       ],
       "options": [
         {
-          "title": "Size",
-          "values": ["One Size"]
+          "title": "Platform",
+          "values": ["Windows"]
         }
       ],
       "variants": [
         {
-          "title": "One Size",
+          "title": "Windows",
           "prices": [
             {
               "currency_code": "eur",
-              "amount": 1000
+              "amount": 100
             },
             {
               "currency_code": "usd",
-              "amount": 1200
+              "amount": 120
             }
           ],
           "options": [
             {
-              "value": "One Size"
+              "value": "Windows"
+            }
+          ],
+          "inventory_quantity": 100,
+          "manage_inventory": true
+        }
+      ]
+    },
+    {
+      "title": "Gran Turismo 7",
+      "subtitle": null,
+      "description": "Get behind the wheel of over 400 cars from day one with each classic motor and bleeding-edge supercar recreated with unparalleled detail and navigate over 90 track routes in dynamic weather conditions.",
+      "handle": "granturismo",
+      "is_giftcard": false,
+      "weight": 400,
+      "images": ["https://cdn.awsli.com.br/800x800/275/275057/produto/93212123/b8a9f0db33.jpg"],
+      "options": [
+        {
+          "title": "Platform",
+          "values": ["Playstation"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "Playstation",
+          "prices": [
+            {
+              "currency_code": "eur",
+              "amount": 150
+            },
+            {
+              "currency_code": "usd",
+              "amount": 170
+            }
+          ],
+          "options": [
+            {
+              "value": "Playstation"
             }
           ],
           "inventory_quantity": 100,
