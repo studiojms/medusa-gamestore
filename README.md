@@ -1,5 +1,7 @@
 # Game Store
 
+![Medusa Game Store](medusa-gamestore.png)
+
 ### Participants
 
 Github : @studiojms
