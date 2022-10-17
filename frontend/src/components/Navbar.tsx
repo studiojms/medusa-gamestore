@@ -6,22 +6,29 @@ import CartSidebar from './CartSidebar';
 
 function Navbar() {
   const { cart, cartOpen, setCartOpen } = useContext<ICartContext>(CartContext);
-  const [theme, setTheme] = useState('light');
+  const [theme, setTheme] = useState('');
 
   useEffect(() => {
     if (localStorage.theme) {
       const savedTheme = JSON.parse(localStorage.theme);
       setTheme(savedTheme);
+    } else {
+      localStorage.setItem('theme', JSON.stringify('light'));
     }
   }, []);
 
   useEffect(() => {
-    const root = window.document.documentElement;
-    root.classList.remove('light');
-    root.classList.remove('dark');
-    root.classList.add(theme);
+    if (theme) {
+      const root = window.document.documentElement;
+      if (theme == 'light') {
+        root.classList.remove('dark');
+      } else {
+        root.classList.remove('light');
+      }
+      root.classList.add(theme);
 
-    localStorage.setItem('theme', JSON.stringify(theme));
+      localStorage.setItem('theme', JSON.stringify(theme));
+    }
   }, [theme]);
 
   const toggleTheme = () => {
