@@ -6,7 +6,7 @@
 
 ### Participants
 
-Github : @studiojms
+Github : [@studiojms](https://github.com/studiojms)
 
 ### Description
 
