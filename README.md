@@ -1,5 +1,7 @@
 ## Medusa Game Store
 
+![Medusa Game Store](cover.png)
+
 ## About
 
 ### Participants
@@ -40,6 +42,7 @@ In order to execute the project, follow the instructions below:
    yarn
    ```
 1. Seed the database
+
    ```bash
    medusa seed -f data/seed.json
    ```
@@ -116,8 +119,8 @@ STORE_CORS=http://localhost:5173
 
 1. In the browser, go to `localhost:5173`
 
-
 ## Resources
+
 - [Medusa’s GitHub repository](https://github.com/medusajs/medusa)
 - [Medusa Admin Panel](https://github.com/medusajs/admin)
 - [Medusa Documentation](https://docs.medusajs.com/)
