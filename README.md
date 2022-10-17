@@ -1,6 +1,6 @@
-# Game Store
+## Medusa Game Store
 
-![Medusa Game Store](medusa-gamestore.gif)
+## About
 
 ### Participants
 
@@ -8,22 +8,22 @@ Github : @studiojms
 
 ### Description
 
-This is a game store storefront powered by Vite+React+Typescript combined with MedusaJS
+This is a game store storefront powered by Vite+React+Typescript+Tailwind CSS powered by MedusaJS
 
 ### Preview
 
-## Set Up
+![Demo](medusa-gamestore.gif)
+
+## Set Up Project
 
 In order to execute the project, follow the instructions below:
 
 ### Prerequisites
 
 - Medusa CLI (`npm install -g @medusajs/medusa-cli`) .
-- Redis (https://redis.io/)
-- PostgreSQL (https://www.postgresql.org/)
-- Node (https://node.org/)
+- Node JS (https://node.org/)
 
-### Installing
+### Instal Project
 
 #### Backend
 
@@ -39,6 +39,11 @@ In order to execute the project, follow the instructions below:
    ```bash
    yarn
    ```
+1. Seed the database
+   ```bash
+   medusa seed -f data/seed.json
+   ```
+
 1. Start the server
    ```bash
    medusa develop
@@ -110,3 +115,9 @@ STORE_CORS=http://localhost:5173
    ```
 
 1. In the browser, go to `localhost:5173`
+
+
+## Resources
+- [Medusa’s GitHub repository](https://github.com/medusajs/medusa)
+- [Medusa Admin Panel](https://github.com/medusajs/admin)
+- [Medusa Documentation](https://docs.medusajs.com/)
