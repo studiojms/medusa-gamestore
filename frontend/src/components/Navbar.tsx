@@ -35,8 +35,9 @@ function Navbar() {
   return (
     <header className="border-b sticky top-0 z-20 bg-white dark:bg-slate-800 dark:text-white dark:border-slate-600">
       <div className="flex items-center justify-between max-w-6xl pt-4 pb-2 px-4 mx-auto lg:max-w-screen-xl">
-        <Link to="/" className="cursor-pointer">
-          <span className="text-lg pt-1 font-bold">Medusa Gamestore</span>
+        <Link to="/" className="cursor-pointer flex">
+          <img src="/public/logo.png" className="w-8" />
+          <span className="pl-2 text-lg pt-1 font-bold">Medusa Gamestore</span>
         </Link>
         <div>
           <a className="text-md font-bold cursor-pointer pr-5" onClick={() => setCartOpen(!cartOpen)}>
